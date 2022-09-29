@@ -142,7 +142,7 @@ function getColor(magnitude) {
   
     
     L.geoJSON(data, {
-      color: "black",
+      color: "red",
       weight: 3
 
            }).addTo(tectonicPlate);
