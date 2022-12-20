@@ -13,3 +13,13 @@ For this project, I am using a URL for GeoJSON earthquake data from the USGS web
 Your approach will be to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. You'll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
 ### Results:
+
+##### Add Tectonic Plate Data
+
+
+
+##### Add Major Earthquake Data
+
+
+
+##### Add an Additional Map
