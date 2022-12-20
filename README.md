@@ -22,10 +22,16 @@ The following shows a small portion of the map of the world that includes techto
 
 ##### Add Major Earthquake Data
 
+Major earthquake data added to map:
+
 <img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/eq_major.png" width="1100">
 
 ##### Add an Additional Map
 
+Earthquake data displaying on satellite view map using Mapbox API:
+
 <img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/eq_sat.png" width="1100">
+
+Earthquake data displaying on night navigation map using Mapbox API:
 
 <img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/eq_night.png" width="1100">
