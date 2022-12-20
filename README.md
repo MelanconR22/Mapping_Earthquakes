@@ -18,7 +18,7 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 
 The following shows a small portion of the map of the world that includes techtonic plates:
 
-
+<img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/Tech_plate.png" width="600">
 
 
 
