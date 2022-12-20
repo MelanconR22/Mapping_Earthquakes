@@ -18,12 +18,14 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 
 The following shows a small portion of the map of the world that includes techtonic plates:
 
-<img src="" width="600">
-
-
+<img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/Tech_plate.png" width="1100">
 
 ##### Add Major Earthquake Data
 
-
+<img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/eq_major.png" width="1100">
 
 ##### Add an Additional Map
+
+<img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/eq_sat.png" width="1100">
+
+<img src="https://github.com/MelanconR22/Mapping_Earthquakes/blob/main/Resources/eq_night.png" width="1100">
