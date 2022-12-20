@@ -16,6 +16,10 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 
 ##### Add Tectonic Plate Data
 
+The following shows a small portion of the map of the world that includes techtonic plates:
+
+
+
 
 
 ##### Add Major Earthquake Data
